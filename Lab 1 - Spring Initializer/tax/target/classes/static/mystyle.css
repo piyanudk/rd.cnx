@@ -1,0 +1,19 @@
+
+.my-font {
+    font-family: fantasy;
+}
+
+img {
+    width: 200px;
+    margin: 5px;
+    float: left;
+}
+
+h1 {
+    text-align: center;
+    width: 1600px;
+    height: 220px;
+    background: lightgray;
+    font-family: sans-serif;
+    font-size: 60px;
+}
